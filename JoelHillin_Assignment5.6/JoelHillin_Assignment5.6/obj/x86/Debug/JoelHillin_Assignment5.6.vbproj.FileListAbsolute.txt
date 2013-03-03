@@ -1,0 +1,11 @@
+C:\Users\Dave\documents\visual studio 2010\Projects\JoelHillin_Assignment5.6\JoelHillin_Assignment5.6\bin\Debug\JoelHillin_Assignment5.6.exe
+C:\Users\Dave\documents\visual studio 2010\Projects\JoelHillin_Assignment5.6\JoelHillin_Assignment5.6\bin\Debug\JoelHillin_Assignment5.6.pdb
+C:\Users\Dave\documents\visual studio 2010\Projects\JoelHillin_Assignment5.6\JoelHillin_Assignment5.6\bin\Debug\JoelHillin_Assignment5.6.xml
+C:\Users\Dave\documents\visual studio 2010\Projects\JoelHillin_Assignment5.6\JoelHillin_Assignment5.6\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dave\documents\visual studio 2010\Projects\JoelHillin_Assignment5.6\JoelHillin_Assignment5.6\obj\x86\Debug\WindowsApplication1.frmCalculatPay.resources
+C:\Users\Dave\documents\visual studio 2010\Projects\JoelHillin_Assignment5.6\JoelHillin_Assignment5.6\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Dave\documents\visual studio 2010\Projects\JoelHillin_Assignment5.6\JoelHillin_Assignment5.6\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dave\documents\visual studio 2010\Projects\JoelHillin_Assignment5.6\JoelHillin_Assignment5.6\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dave\documents\visual studio 2010\Projects\JoelHillin_Assignment5.6\JoelHillin_Assignment5.6\obj\x86\Debug\JoelHillin_Assignment5.6.exe
+C:\Users\Dave\documents\visual studio 2010\Projects\JoelHillin_Assignment5.6\JoelHillin_Assignment5.6\obj\x86\Debug\JoelHillin_Assignment5.6.xml
+C:\Users\Dave\documents\visual studio 2010\Projects\JoelHillin_Assignment5.6\JoelHillin_Assignment5.6\obj\x86\Debug\JoelHillin_Assignment5.6.pdb

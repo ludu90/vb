@@ -1,0 +1,11 @@
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Chapter2.4 Hillin\Chapter2.4 Hillin\bin\Debug\Chapter2.4 Hillin.exe
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Chapter2.4 Hillin\Chapter2.4 Hillin\bin\Debug\Chapter2.4 Hillin.pdb
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Chapter2.4 Hillin\Chapter2.4 Hillin\bin\Debug\Chapter2.4 Hillin.xml
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Chapter2.4 Hillin\Chapter2.4 Hillin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Chapter2.4 Hillin\Chapter2.4 Hillin\obj\x86\Debug\Chapter2._4_Hillin.frmSpecials.resources
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Chapter2.4 Hillin\Chapter2.4 Hillin\obj\x86\Debug\Chapter2._4_Hillin.Resources.resources
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Chapter2.4 Hillin\Chapter2.4 Hillin\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Chapter2.4 Hillin\Chapter2.4 Hillin\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Chapter2.4 Hillin\Chapter2.4 Hillin\obj\x86\Debug\Chapter2.4 Hillin.exe
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Chapter2.4 Hillin\Chapter2.4 Hillin\obj\x86\Debug\Chapter2.4 Hillin.xml
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Chapter2.4 Hillin\Chapter2.4 Hillin\obj\x86\Debug\Chapter2.4 Hillin.pdb
